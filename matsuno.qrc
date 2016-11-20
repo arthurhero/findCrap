@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>matsuno.rtf</file>
+    </qresource>
+</RCC>
